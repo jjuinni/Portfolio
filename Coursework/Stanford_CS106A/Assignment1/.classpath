@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/juinj/Downloads/ProgrammingMethodology/materials/icspmcs106a/Assignment6/Assignment6/acm.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="karel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juinj/CS106A_workspace_x64/Assignment_1/karel_old.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
