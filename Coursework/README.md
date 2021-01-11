@@ -8,10 +8,11 @@ This repository contains all relevant Data Science studies accomplished online b
 3. [Stanford - Machine Learning with Matlab](https://www.coursera.org/account/accomplishments/certificate/QP5FUT2ZUGVB)
 4. [UMich - Python for Everbody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2Z7LAWJXN8UA)
 5. [IBM - Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YQD4EMUQJSZZ)
-6. [Deep Learning Specialization]() : in progress
-7. [UDuke - Excel to MySQL: Analytic Techniques for Business Specialization]() : in progress
-8. [UWash - Machine Learning Specialization]() : in progress
-9. [UCSanDiego - Big Data Specialization]() : in progress
-10. [UMich - Statistics with Python Specialization]() : in progress
+6. [Deep Learning Specialization]() : 3/5 in progress
+7. [UDuke - Excel to MySQL: Analytic Techniques for Business Specialization]() : 3/5 in progress
+8. [UWash - Machine Learning Specialization]() : 2/4 in progress
+9. [UCSanDiego - Big Data Specialization]() : 2/6 in progress
+10. [UMich - Statistics with Python Specialization]() : 2/3 in progress
 
-Each course offered their own variety of foundations and projects. More detailed information can be found in Coursera.
+Each course offered their own variety of foundations and projects. 
+For Specializations, its composed by multiple courses. More detailed information can be found in Coursera.
