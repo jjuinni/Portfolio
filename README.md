@@ -4,7 +4,7 @@ Repository containing my portfolio of data science projects presented in the for
 ## Content
 
 ### Machine Learning
-- [Car Accident Severity]() : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology. 
+- [Car Accident Severity](https://github.com/jjuinni/Portfolio/blob/master/Car_accident_severity_ibmcapstone.ipynb) : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology. 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
