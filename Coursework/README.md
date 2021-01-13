@@ -13,6 +13,7 @@ This repository contains all relevant Data Science studies accomplished online b
 8. [UWash - Machine Learning Specialization]() : 2/4 in progress
 9. [UCSanDiego - Big Data Specialization]() : 2/6 in progress
 10. [UMich - Statistics with Python Specialization]() : 2/3 in progress
+11. [UToronto - Self-Driving Cars Specialization]() : 1/4 in progress
 
 Each course offered their own variety of foundations and projects. 
 For Specializations, its composed by multiple courses. More detailed information can be found in Coursera.
