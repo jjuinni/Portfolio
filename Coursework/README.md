@@ -36,7 +36,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2Z7LAWJXN8UA) 
 - [Course reference](https://www.coursera.org/specializations/python?)
-- Introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
+- Description: Introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
 
 </details>
 
@@ -45,7 +45,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YQD4EMUQJSZZ) 
 - [Course reference](https://www.coursera.org/professional-certificates/ibm-data-science?)
-- The program consists of 9 online courses that provides you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Learning data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
+- Description: The program consists of 9 online courses that provides you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Learning data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
 
 </details>
 
@@ -54,7 +54,7 @@ The course also draw from numerous case studies and applications, to also learn 
 4/5 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/deep-learning?)
-- Foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. Topics include: Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
+- Description: Foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. Topics include: Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
 
 </details>
 
@@ -63,7 +63,7 @@ The course also draw from numerous case studies and applications, to also learn 
 4/5 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/excel-mysql)
-- Use of tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate insights.
+- Description: Use of tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate insights.
 
 </details>
 
@@ -72,7 +72,7 @@ The course also draw from numerous case studies and applications, to also learn 
 2/4 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/machine-learning?)
-- Machine Learning through a series of practical case studies. Topics include major areas including Prediction, Classification, Clustering, and Information Retrieval. Learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data.
+- Description: Machine Learning through a series of practical case studies. Topics include major areas including Prediction, Classification, Clustering, and Information Retrieval. Learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data.
 
 </details>
 
@@ -81,7 +81,7 @@ The course also draw from numerous case studies and applications, to also learn 
 3/6 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/big-data?)
-- The basics of using Hadoop with MapReduce, Spark, Pig and Hive. Understanding big data and how it will impact your business.
+- Description: The basics of using Hadoop with MapReduce, Spark, Pig and Hive. Understanding big data and how it will impact your business.
 
 </details>
 
@@ -90,7 +90,7 @@ The course also draw from numerous case studies and applications, to also learn 
 2/3 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/statistics-with-python?)
-- Learning concepts of statistical analysis, where data come from, what types of data can be collected, study data design, data management, and how to effectively carry out data exploration and visualization.
+- Description: Learning concepts of statistical analysis, where data come from, what types of data can be collected, study data design, data management, and how to effectively carry out data exploration and visualization.
 
 </details>
 
@@ -99,7 +99,7 @@ The course also draw from numerous case studies and applications, to also learn 
 1/4 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/self-driving-cars?)
-- Learning state-of-the-art engineering practices used in the self-driving car industry. Interact with real datasets from an autonomous vehicle (AV) - with hands-on projects using the open source simulator CARLA.
+- Description: Learning state-of-the-art engineering practices used in the self-driving car industry. Interact with real datasets from an autonomous vehicle (AV) - with hands-on projects using the open source simulator CARLA.
 
 </details>
 
