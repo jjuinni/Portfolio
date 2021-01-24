@@ -51,6 +51,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>Deep Learning Specialization</strong></summary> 
 <br>
+
 4/5 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/deep-learning?)
@@ -60,6 +61,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>UDuke - Excel to MySQL: Analytic Techniques for Business Specialization</strong></summary> 
 <br>
+
 4/5 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/excel-mysql)
@@ -69,6 +71,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>UWash - Machine Learning Specialization</strong></summary> 
 <br>
+
 2/4 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/machine-learning?)
@@ -78,6 +81,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>UCSanDiego - Big Data Specialization</strong></summary> 
 <br>
+
 3/6 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/big-data?)
@@ -87,6 +91,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>UMich - Statistics with Python Specialization</strong></summary> 
 <br>
+
 2/3 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/statistics-with-python?)
@@ -96,6 +101,7 @@ The course also draw from numerous case studies and applications, to also learn 
 
 <details><summary><strong>UToronto - Self-Driving Cars Specialization</strong></summary> 
 <br>
+
 1/4 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/self-driving-cars?)
