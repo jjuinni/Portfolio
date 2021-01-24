@@ -1,6 +1,8 @@
 ## Introduction
 In this repository it is my solutions for the assignments given in 6.0001 and 6.0002 taught by Dr. Ana Bell, Prof. Eric Grimson and Prof. John Guttag.
 
+Course description: Python programming language foundation, computational thinking and data science concepts.
+
 ### 6.0001 - Intro to Computer Science and Programming in Python
 <details><summary><strong>Simple programming</strong></summary> 
 <br>

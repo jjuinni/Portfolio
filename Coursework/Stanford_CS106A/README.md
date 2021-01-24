@@ -1,6 +1,9 @@
 ## Introduction
 In this repository it is my solutions for the assignments given in CS106A taught by Prof. Mehran Sahami.
 
+Course description: Topics focus on the introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing.
+Programming Methodology teaches the widely-used Java programming language along with good software engineering principles. Emphasis is on good programming style and the built-in facilities of the Java language.
+
 ### Assignments
 <details><summary><strong>Email and Karel the Robot</strong></summary> 
 <br>
