@@ -6,13 +6,13 @@ Repository containing my portfolio of data science projects presented in the for
 ### Machine Learning
 - [Car Accident Severity](https://github.com/jjuinni/Portfolio/blob/master/Car_accident_severity_ibmcapstone.ipynb) : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology. 
 - [Wiki Profile Retrieval](https://github.com/jjuinni/Portfolio/blob/master/Retrieving%20Similar%20Profiles.ipynb) : A NLP project with analysis of the Wikipedia People Dataset using Nearest Neighbors Search to find similar profiles(articles) relevant to a person of interest applying different notions of similarity for text retrieval.
-- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. 
+- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. [Article](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) deployed for an overview.
 - [Car Object Detection]() : 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Turicreate, Matplotlib, Keras_
 
 ### Data Analysis & Visualization
-- [Fundamental Analysis of a Stock](https://github.com/jjuinni/Portfolio/blob/master/Fundamental%20Analysis%20of%20a%20Stock/fundamental_analysis_of_apple.ipynb) : Analysis of technology stocks focusing on Apple Inc. including visualization of stock fair value and growth projection.
+- [Fundamental Analysis of a Stock](https://github.com/jjuinni/Portfolio/blob/master/Fundamental%20Analysis%20of%20a%20Stock/fundamental_analysis_of_apple.ipynb) : Analysis of technology stocks focusing on Apple Inc. including visualization of stock fair value and growth projection. [Article](https://jjuinni.medium.com/scraping-finviz-getting-financial-ratios-with-python-and-applying-valuation-methods-655710a024fe) deployed for an overview.
 
 	
 - [Tableau](https://github.com/jjuinni/Portfolio/tree/master/Tableau) : Click on the link for more details.
