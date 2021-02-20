@@ -6,7 +6,7 @@ Repository containing my portfolio of data science projects presented in the for
 ### Machine Learning
 - [Car Accident Severity](https://github.com/jjuinni/Portfolio/blob/master/Car_accident_severity_ibmcapstone.ipynb) : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology. 
 - [Wiki Profile Retrieval](https://github.com/jjuinni/Portfolio/blob/master/Retrieving%20Similar%20Profiles.ipynb) : A NLP project with analysis of the Wikipedia People Dataset using Nearest Neighbors Search to find similar profiles(articles) relevant to a person of interest applying different notions of similarity for text retrieval.
-- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. [Article](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) deployed for an overview.
+- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. [Article](https://jjuinni.medium.com/cnn-architecture-from-scratch-resnet50-with-keras-4414539521d1) deployed for an overview.
 - [Car Object Detection]() : 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Turicreate, Matplotlib, Keras_
