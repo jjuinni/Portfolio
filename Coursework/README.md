@@ -52,7 +52,7 @@ The course also draw from numerous case studies and applications, to also learn 
 <details><summary><strong>Deep Learning Specialization</strong></summary> 
 <br>
 
-4/5 in progress
+5/5 in progress
 - [Certificate]()
 - [Course reference](https://www.coursera.org/specializations/deep-learning?)
 - Description: Foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. Topics include: Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.

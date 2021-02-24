@@ -35,4 +35,5 @@ Repository containing my portfolio of data science projects presented in the for
 ## Contact Info
 -  Email: juinjeon@gmail.com 
 -  LinkedIn: https://www.linkedin.com/in/juinjeon/ 
+-  Medium: https://jjuinni.medium.com/
 
